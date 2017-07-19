@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjercicioNotas</string>
+    <string name="action_settings">Settings</string>
+    <string name="asistencia">¿Asistió a todas las clases?</string>
+    <string name="notaIA">Ingrese la nota del curso de IA</string>
+    <string name="notaAndroid">Ingrese la nota del curso de Android</string>
+    <string name="notaJava">Ingrese la nota del curso de Java</string>
+</resources>
